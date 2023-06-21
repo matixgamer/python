@@ -1,0 +1,24 @@
+Polityka prywatności
+
+1. Zebrane dane
+Aplikacja gromadzi następujące dane użytkownika: imię, nazwisko, adres e-mail, preferencje językowe.
+
+2. Cel zbierania danych
+Dane użytkownika są zbierane w celu zapewnienia spersonalizowanego doświadczenia w aplikacji oraz w celach statystycznych.
+
+3. Przetwarzanie danych
+Zebrane dane są przetwarzane zgodnie z obowiązującymi przepisami prawa o ochronie danych osobowych.
+
+4. Udostępnianie danych
+Dane użytkownika nie będą udostępniane osobom trzecim bez wyraźnej zgody użytkownika.
+
+5. Bezpieczeństwo danych
+Aplikacja podejmuje odpowiednie środki bezpieczeństwa, aby chronić zebrane dane przed utratą, nieautoryzowanym dostępem i manipulacją.
+
+6. Dodatkowe informacje na temat danych
+Po zaakceptowaniu tej polityki prywatności, użytkownik zgadza się na użycie jego wizerunku przy użyciu technologii deepfake, w serialu, który będzie mógł negatywnie wpłynąć na wizerunek osoby akceptującej te warunki.
+
+7. Prawa użytkownika
+Użytkownik nie ma prawa żądać dostępu, poprawiania, usunięcia swoich danych osobowych przechowywanych przez aplikację.
+
+Prosimy zapoznać się z powyższą polityką prywatności. Korzystanie z aplikacji oznacza akceptację tej polityki.
